@@ -3,12 +3,6 @@
 ## 📌 Overview
 This dataset contains customer-level information for analyzing and predicting **customer churn** in a telecommunications-like service environment. Each row represents a single customer with demographic, service usage, contract, and support-related attributes, along with a churn label.
 
-The dataset is suitable for:
-- Binary classification (churn prediction)
-- Exploratory data analysis (EDA)
-- Feature engineering practice
-- Machine learning and deep learning experiments
-
 ---
 
 ## 📂 Dataset Structure
