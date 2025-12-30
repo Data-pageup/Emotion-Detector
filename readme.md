@@ -1,7 +1,8 @@
 # Customer Churn Dataset (in progress)
 
 ## 📌 Overview
-This dataset contains customer-level information for analyzing and predicting **customer churn** in a telecommunications-like service environment. Each row represents a single customer with demographic, service usage, contract, and support-related attributes, along with a churn label.
+This dataset contains customer-level information for analyzing and pr
+edicting **customer churn** in a telecommunications-like service environment. Each row represents a single customer with demographic, service usage, contract, and support-related attributes, along with a churn label.
 
 ---
 
